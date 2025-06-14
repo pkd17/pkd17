@@ -1,6 +1,6 @@
 <h1 align="center">Pratyush Kumar Das</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Engineer;QA+&+Automation+Tester;Cloud+Infra+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Engineer;QA-Automation;Cloud+Infra+Enthusiast"/>
 </h3>
 
 ---
