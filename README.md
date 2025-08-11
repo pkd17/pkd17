@@ -21,9 +21,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   
   <!-- DevOps -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
 
