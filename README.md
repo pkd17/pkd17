@@ -8,7 +8,7 @@
 ## 🚀 Languages & Tools:
 
 <p align="left">
-  <!-- Full Stack -->
+   <!-- Full Stack -->
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
@@ -24,8 +24,16 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
 
+  <!-- Testing Engineer -->
+  <img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="TestNG" title="TestNG"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" title="JIRA"/>
+  <img src="https://img.icons8.com/fluency/48/000000/task.png" alt="BDD-Cucumber" title="BDD-Cucumber"/>
+  <img src="https://img.icons8.com/fluency/48/000000/code-file.png" alt="Gherkins" title="Gherkins"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins"/>
+
   <!-- Bonus -->
   <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
+
 </p>
 
 
