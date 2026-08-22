@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/plasticine/52/bash.png" alt="Bash" title="Bash"/>
 
   <!-- QA Automation & Testing -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Bash" title="Selenium"/>
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
     width="48"
