@@ -35,13 +35,6 @@
 
   <!-- QA Automation & Testing -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Bash" title="Selenium"/>
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
-    width="48"
-    height="48"
-    alt="Selenium"
-    title="Selenium"
-  />
 
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
